@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Lhx::Application.load_tasks
+LHX::Application.load_tasks

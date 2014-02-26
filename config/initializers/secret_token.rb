@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Lhx::Application.config.secret_key_base = 'ba482118378a5cc36cd87abb5cb5753b61500caedf578cd098eb956e84ad897a5d2cd0b8e060d8e272b477173ac13e9c18d002e81d4b706d92f085c2bea11ba9'
+LHX::Application.config.secret_key_base = 'ba482118378a5cc36cd87abb5cb5753b61500caedf578cd098eb956e84ad897a5d2cd0b8e060d8e272b477173ac13e9c18d002e81d4b706d92f085c2bea11ba9'

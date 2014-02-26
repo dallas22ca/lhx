@@ -1,4 +1,4 @@
-### API and JS App
+### There Are No Views!
 
 ### Required Features
 
@@ -7,7 +7,7 @@
 3. Add domain
 4. Can change domain
 5. Get embed code / Code is added to site
-6. Can buy addons (hosted Stripe form)
+6. Purchase Addons (hosted Stripe form)
    - SMS ($15 / month)
    - Triggers ($5 / month)
    - Surveys ($5 / month)
